@@ -1,0 +1,21 @@
+{% load static %}
+<!DOCTYPE html>
+<html>
+  <head>
+    <title>Heart Disease Prediction</title>
+    <link rel="stylesheet" href="{% static 'blog/navbar.css' %}">
+
+  </head>
+  <body>
+    <div class="navbar">
+      <a href="{% url 'homes' %}">Home</a>
+      <a href="#">About</a>
+      <a href="#">Contact</a>
+      <a href="{% url 'login' %}" class="login-button">Login</a>
+      <p class="navbar-paragraph">HEART DISEASE PREDICTION</p>
+    </div>
+    <div class="center">
+    <p><h1>Providing extensive family Health care</h1></p>
+    </div>
+  </body>
+</html>

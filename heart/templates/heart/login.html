@@ -1,0 +1,38 @@
+{% load static %}
+
+<html>
+<head>
+	<title>Login Page</title>
+	<!-- <link rel="stylesheet" type="text/css" href="stylesheet.css"> -->
+
+	<link rel="stylesheet" href="{% static 'blog/style.css' %}">
+	<link rel="stylesheet" href="{% static 'blog/navbar.css' %}">
+
+</head>
+<body>
+	<div class="navbar">
+		<a href="{% url 'homes' %}">Home</a>
+		<a href="#">About</a>
+		<a href="#">Contact</a>
+		<a href="{% url 'login' %}" class="login-button">Login</a>
+		<p class="navbar-paragraph">HEART DISEASE PREDICTION</p>
+	</div>
+
+    <div class="background-image">
+	<div class="login-container">
+		<h1>Login</h1>
+		<form>
+			<label for="username">Username</label>
+			<input type="text" id="username" name="username" required>
+
+			<label for="password">Password</label>
+			<input type="password" id="password" name="password" required>
+
+			<input type="submit" value="Login">
+		</form>
+		<p>Don't have an account? <a href="{% url 'signup' %}">Register</a></p>
+		<!-- <p>Don't have an account? <a href="{% static 'signup.html' %}>Register</a></p> -->
+
+	</div>
+</body>
+</html>

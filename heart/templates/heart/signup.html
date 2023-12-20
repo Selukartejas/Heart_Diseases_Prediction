@@ -1,0 +1,48 @@
+{% load static %}
+<!DOCTYPE html>
+<html>
+<head>
+	<title>Registration Page</title>
+	<!-- <link rel="stylesheet" type="text/css" href="stylesheet.css"> -->
+  	<link rel="stylesheet" href="{% static 'blog/style.css' %}">
+		<link rel="stylesheet" href="{% static 'blog/navbar.css' %}">
+</head>
+<body>
+	<div class="navbar">
+		<a href="{% url 'homes' %}">Home</a>
+		<a href="#">About</a>
+		<a href="#">Contact</a>
+		<a href="{% url 'login' %}" class="login-button">Login</a>
+		<p class="navbar-paragraph">HEART DISEASE PREDICTION</p>
+	</div>
+
+    <div class="background-image">
+	<div class="register-container">
+		<h1>Register</h1>
+		<form>
+            <label for="name">Name</label>
+			<input type="text" id="name" name="name" required>
+
+			<label for="age">Age</label>
+			<input type="text" id="age" name="age" required>
+
+			<label for="gender">Gender</label>
+			<input type="text" id="gender" name="gender" required>
+
+			<label for="username">Username</label>
+			<input type="text" id="username" name="username" required>
+
+			<label for="password">Password</label>
+			<input type="password" id="password" name="password" required>
+
+			<label for="confirm-password">Confirm Password</label>
+			<input type="password" id="confirm-password" name="confirm-password" required>
+
+			<input type="submit" value="Register">
+		</form>
+		<p>Already have an account? <a href="{% url 'login' %}">Login</a></p>
+    <!-- <p>Already have an account? <a href="{% static 'login.html' %}>Login</a></p> -->
+
+	</div>
+</body>
+</html>
