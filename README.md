@@ -48,6 +48,3 @@ The early detection and prediction of heart disease using machine learning techn
 ## Acknowledgements
 This project expresses gratitude for the use of the Heart Disease UCI dataset and leverages machine learning techniques to contribute to the early prediction of heart disease.
 
-## Additional Feature: Average Word Count
-An extra functionality has been incorporated to compute the average word count in the provided text. This enhancement augments the analysis by assimilating textual information and extracting valuable insights pertinent to the project documentation. The average word count for this README file is XXX words.
-
