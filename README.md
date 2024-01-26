@@ -32,22 +32,22 @@ Approaching heart disease prediction as a machine learning project involves depl
 ### Screenshots:
 
 **1. Home Page:**
-   - ![heart disease pred 1](https://github.com/prajwalganvir/Heart_Dieseas_prediction/assets/109936069/9c6d2165-6c82-4bac-8b76-30b64307f34e)
+   ![heart disease pred 1](https://github.com/prajwalganvir/Heart_Dieseas_prediction/assets/109936069/9c6d2165-6c82-4bac-8b76-30b64307f34e)
    - Describe the purpose and content of the home page.
    - Highlight any key features or information presented.
 
 **2. Login Page:**
-   - ![heart disease pred 12png](https://github.com/prajwalganvir/Heart_Dieseas_prediction/assets/109936069/2137313f-f018-4b98-8770-476588a74311)
+   ![heart disease pred 12png](https://github.com/prajwalganvir/Heart_Dieseas_prediction/assets/109936069/2137313f-f018-4b98-8770-476588a74311)
    - Explain the login functionality and its significance.
    - Mention any security measures implemented for user authentication.
 
 **3. Input Page:**
-   - ![image](https://github.com/prajwalganvir/Heart_Dieseas_prediction/assets/109936069/9ef0e9fb-4cb9-4ebc-816a-c5181a4aacaa)
+   ![image](https://github.com/prajwalganvir/Heart_Dieseas_prediction/assets/109936069/9ef0e9fb-4cb9-4ebc-816a-c5181a4aacaa)
    - Detail the input fields and parameters for the heart disease prediction.
    - Highlight any user-friendly design features or validations.
 
 **4. Output Page:**
-   - ![image](https://github.com/prajwalganvir/Heart_Dieseas_prediction/assets/109936069/ebc94287-7b44-4730-91a7-f918dea328d8)
+   ![image](https://github.com/prajwalganvir/Heart_Dieseas_prediction/assets/109936069/ebc94287-7b44-4730-91a7-f918dea328d8)
    - Explain how the machine learning model results are presented.
    - Provide insights into the interpretation of the output for users.
 
