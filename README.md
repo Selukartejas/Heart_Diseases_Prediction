@@ -28,6 +28,34 @@ The initial steps involve meticulous data collection and preparation. Data may o
 ## Analysis Techniques
 Approaching heart disease prediction as a machine learning project involves deploying various algorithms such as logistic regression, decision trees, and random forests. The performance of these algorithms undergoes rigorous evaluation, with the random forest algorithm emerging as the most accurate predictor, boasting a 90% accuracy rate.
 
+
+### Screenshots:
+
+**1. Home Page:**
+   - ![heart disease pred 1](https://github.com/prajwalganvir/Heart_Dieseas_prediction/assets/109936069/9c6d2165-6c82-4bac-8b76-30b64307f34e)
+   - Describe the purpose and content of the home page.
+   - Highlight any key features or information presented.
+
+**2. Login Page:**
+   - ![heart disease pred 12png](https://github.com/prajwalganvir/Heart_Dieseas_prediction/assets/109936069/2137313f-f018-4b98-8770-476588a74311)
+   - Explain the login functionality and its significance.
+   - Mention any security measures implemented for user authentication.
+
+**3. Input Page:**
+   - ![image](https://github.com/prajwalganvir/Heart_Dieseas_prediction/assets/109936069/9ef0e9fb-4cb9-4ebc-816a-c5181a4aacaa)
+   - Detail the input fields and parameters for the heart disease prediction.
+   - Highlight any user-friendly design features or validations.
+
+**4. Output Page:**
+   - ![image](https://github.com/prajwalganvir/Heart_Dieseas_prediction/assets/109936069/ebc94287-7b44-4730-91a7-f918dea328d8)
+   - Explain how the machine learning model results are presented.
+   - Provide insights into the interpretation of the output for users.
+
+## Additional Information:
+   - Mention any other notable pages or functionalities in your project.
+   - Discuss the technologies used, such as Django for the backend and any frontend frameworks or libraries.
+   - Highlight the significance of incorporating machine learning into the project.
+
 ## Results
 The project results underscore the effectiveness of machine learning techniques in predicting heart disease risk. The random forest algorithm emerges as the standout performer based on the provided dataset.
 
@@ -48,19 +76,4 @@ The early detection and prediction of heart disease using machine learning techn
 ## Acknowledgements
 This project expresses gratitude for the use of the Heart Disease UCI dataset and leverages machine learning techniques to contribute to the early prediction of heart disease.
 
-this is the MY first mini Project which i developed using Django and is Implemented using Machine Learning.
 
-THIS is the Home Page
-![heart disease pred 1](https://github.com/prajwalganvir/Heart_Dieseas_prediction/assets/109936069/9c6d2165-6c82-4bac-8b76-30b64307f34e)
-
-2. THis is the Login Page
-3. 
-![heart disease pred 12png](https://github.com/prajwalganvir/Heart_Dieseas_prediction/assets/109936069/2137313f-f018-4b98-8770-476588a74311)
-
-This is the Input page
-![image](https://github.com/prajwalganvir/Heart_Dieseas_prediction/assets/109936069/9ef0e9fb-4cb9-4ebc-816a-c5181a4aacaa)
-
-This is the OUtput Page
-![image](https://github.com/prajwalganvir/Heart_Dieseas_prediction/assets/109936069/ebc94287-7b44-4730-91a7-f918dea328d8)
-
-IT also had few more pages but these above pages are the project Highlights
